@@ -1,0 +1,24 @@
+body{
+  margin-top: 20px !important;
+}
+
+.cu-form {
+  max-width: 944px;
+  border-radius: 10px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  color: var(--dark-cyan);
+  box-shadow: 0px 2px 6px 0px #73737380 inset;
+  margin: auto;
+  gap: 20px;
+  background-color: var(--white);
+}
+
+.cu-form label {
+  font-size: 15px;
+  letter-spacing: 0.7px;
+}
+.cu-form span {
+color: red;
+}
